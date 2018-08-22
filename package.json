@@ -18,9 +18,6 @@
     "hyper-quickssh",
     "quickssh"
   ],
-  "os": [
-    "!win32"
-  ],
   "dependencies": {
     "color": "^1.0.3",
     "electron-log": "^2.2.9",
